@@ -2,9 +2,9 @@
 
 ![sprite](images/sprite-select.png)
 
-+ Click the __Sounds__ tab, and click __Choose sound from library__:
++ Click the __Sounds__ tab, and click __Choose a Sound__:
 
-![sounds and choose from library highlight](images/import-sound.png)
+![sounds and choose a sound highlight](images/import-sound.png)
 
 + Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
 
