@@ -1,11 +1,7 @@
-title: generic-scratch3-sound-from-library
+title: Adding a sound from the library
 hero_image: images/banner.png
-description: generic-scratch3-sound-from-library description
-version: 4
+description: How to add a sound to your Scratch sprite
 listed: false
-copyedit: false
-last_tested: "2018-10-23"
+copyedit: true
 steps:
-  - title: Introduction
-  - title: What you will need
-  - title: Step title
+  - title: Add a sound to your sprite
