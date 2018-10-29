@@ -1,4 +1,4 @@
-+ Select the sprite you want to add the sound to.
++ Selectați personajul căruia doriți să-i asociați sunetul.
 
 ![sprite](images/sprite-select.png)
 
@@ -10,6 +10,6 @@
 
 ![menu of sounds](images/choose-sound.png)
 
-+ You should then see that your sprite has your chosen sound.
++ Ar trebui apoi să verificati că personajul are asociat sunetul pe care l-ați ales.
 
 ![new sound shown against the sprite](images/sound-imported.png)
