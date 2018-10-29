@@ -1,4 +1,4 @@
-+ Select the sprite you want to add the sound to.
++ Vælg den sprite du vil tilføje lyden.
 
 ![sprite](images/sprite-select.png)
 
@@ -10,6 +10,6 @@
 
 ![menu of sounds](images/choose-sound.png)
 
-+ You should then see that your sprite has your chosen sound.
++ Du kan så se, hvilke lyd der er valgt til din sprite.
 
 ![new sound shown against the sprite](images/sound-imported.png)
