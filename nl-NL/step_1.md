@@ -1,15 +1,15 @@
-+ Select the sprite you want to add the sound to.
++ Selecteer de sprite waaraan je het geluid wilt toevoegen.
 
 ![sprite](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ Klik op het tabblad **Geluiden** en klik linksonder op **Kies een geluid **:
 
 ![sounds and choose a sound highlight](images/import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ Geluiden zijn ingedeeld per categorie, je kunt over het pictogram bewegen om een ​​geluid te horen. Kies een geschikt geluid.
 
-![menu of sounds](images/choose-sound.png)
+![menu of sound](images/choose-sound.png)
 
-+ You should then see that your sprite has your chosen sound.
++ Je zou dan moeten zien dat het gekozen geluid is toegevoegd aan je sprite.
 
 ![new sound shown against the sprite](images/sound-imported.png)
