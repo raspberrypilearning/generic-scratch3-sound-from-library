@@ -1,4 +1,4 @@
-+ Wähle die Figur aus, der du den Klang hinzufügen möchtest.
++ Select the sprite you want to add the sound to.
 
 ![sprite](images/sprite-select.png)
 
@@ -10,6 +10,6 @@
 
 ![menu of sounds](images/choose-sound.png)
 
-+ Du solltest dann sehen, dass deine Figur den von dir gewählten Klang hat.
++ You should then see that your sprite has your chosen sound.
 
 ![new sound shown against the sprite](images/sound-imported.png)
