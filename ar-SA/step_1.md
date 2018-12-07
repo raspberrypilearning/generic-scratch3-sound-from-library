@@ -1,15 +1,15 @@
-+ Select the sprite you want to add the sound to.
++ حدِّد الكائن الذي تريد إضافة صوت إليه.
 
-![sprite](images/sprite-select.png)
+![كائن](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ انقر فوق علامة تبويب **الأصوات**، ثم انقر فوق **اختيار صوت**:
 
-![sounds and choose a sound highlight](images/import-sound.png)
+![الأصوات واختيار الصوت الداعم](images/import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ الأصوات منظمة حسب الفئة، ويمكنك تمرير (الفأره) فوق الرمز لسماع الصوت. اختر الصوت المناسب.
 
-![menu of sounds](images/choose-sound.png)
+![قائمة الأصوات](images/choose-sound.png)
 
-+ You should then see that your sprite has your chosen sound.
++ ستجد عندئذٍ أنه أصبح للكائن الصوت الذي اخترتَه.
 
-![new sound shown against the sprite](images/sound-imported.png)
+![صوت جديد يظهر ضد الكائن](images/sound-imported.png)
