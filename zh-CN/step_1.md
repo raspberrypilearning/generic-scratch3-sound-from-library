@@ -1,15 +1,15 @@
-+ Select the sprite you want to add the sound to.
++ 选择你想要添加声音的角色。
 
-![sprite](images/sprite-select.png)
+![角色](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ 选择**声音**选项卡，并点击**选择一个声音**按钮：
 
-![sounds and choose a sound highlight](images/import-sound.png)
+![声音和选择声音高亮](images/import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ 声音按类别组织，您可以将鼠标悬停在图标上以听到声音。 选择一个合适的声音。
 
-![menu of sounds](images/choose-sound.png)
+![声音菜单](images/choose-sound.png)
 
-+ You should then see that your sprite has your chosen sound.
++ 你应该能看到你的角色已经有了你给他选择的声音。
 
-![new sound shown against the sprite](images/sound-imported.png)
+![为角色选择的新声音](images/sound-imported.png)
