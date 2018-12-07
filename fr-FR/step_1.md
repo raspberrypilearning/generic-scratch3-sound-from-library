@@ -1,4 +1,4 @@
-+ Sélectionne le lutin auquel tu souhaite ajouter un son.
++ Select the sprite you want to add the sound to.
 
 ![sprite](images/sprite-select.png)
 
@@ -10,6 +10,6 @@
 
 ![menu of sounds](images/choose-sound.png)
 
-+ Tu verras alors que ton lutin fait le son que tu as choisi.
++ You should then see that your sprite has your chosen sound.
 
 ![new sound shown against the sprite](images/sound-imported.png)
