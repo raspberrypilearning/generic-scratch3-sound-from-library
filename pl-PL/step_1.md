@@ -1,15 +1,15 @@
-+ Select the sprite you want to add the sound to.
++ Wybierz duszka, do którego chcesz dodać dźwięk.
 
-![sprite](images/sprite-select.png)
+![duszek](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ Kliknij kartę **Dźwięki**, a następnie **Wybierz dźwięk**:
 
-![sounds and choose a sound highlight](images/import-sound.png)
+![dźwięki i wybierz podświetlony dźwięk](images/import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ Dźwięki są uporządkowane według kategorii i możesz najechać kursorem na ikonę, aby odsłuchać dźwięk. Wybierz pasujący dźwięk.
 
-![menu of sounds](images/choose-sound.png)
+![menu dźwięków](images/choose-sound.png)
 
-+ You should then see that your sprite has your chosen sound.
++ Zauważysz wtedy, że twój duszek ma wybrany przez ciebie dźwięk.
 
-![new sound shown against the sprite](images/sound-imported.png)
+![nowy dźwięk pokazany na duszku](images/sound-imported.png)
