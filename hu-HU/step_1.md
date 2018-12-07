@@ -1,4 +1,4 @@
-+ Válaszd ki a szereplőt, amelyhez hozzá szeretnéd adni a hangot.
++ Select the sprite you want to add the sound to.
 
 ![sprite](images/sprite-select.png)
 
@@ -10,6 +10,6 @@
 
 ![menu of sounds](images/choose-sound.png)
 
-+ Ezután láthatod, hogy a szereplőhöz hozzákerült a kiválasztott hang.
++ You should then see that your sprite has your chosen sound.
 
 ![new sound shown against the sprite](images/sound-imported.png)
