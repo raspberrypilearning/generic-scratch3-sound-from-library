@@ -2,7 +2,7 @@
 
 ![sprite](images/sprite-select.png)
 
-+ Klik op het tabblad **Geluiden** en klik linksonder op **Kies een geluid **:
++ Klik op het tabblad **Geluiden** en klik linksonder op **Kies een geluid**:
 
 ![sounds and choose a sound highlight](images/import-sound.png)
 
