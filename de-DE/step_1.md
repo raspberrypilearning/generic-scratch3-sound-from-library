@@ -4,7 +4,7 @@
 
 + Klicke den **Klänge** Reiter und klicke **Klang wählen**:
 
-![sounds and choose a sound highlight](images/import-sound.png)
+![Reiter "Klänge" mit Schaltfläche "Klang wählen" und ein markiertes Element](images/import-sound.png)
 
 + Die Klänge sind nach Kategorien geordnet und du kannst mit der Maus über das Symbol fahren, um einen Klang zu hören. Wähle einen passenden Klang.
 
