@@ -1,15 +1,15 @@
-+ Select the sprite you want to add the sound to.
++ شبحی که می‌خواهید صدا را به آن اضافه کنید، انتخاب نمایید.
 
-![sprite](images/sprite-select.png)
+![شبح](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ روی زبانه‌ی **Sounds** کلیک کنید و بر روی **Choose a Sound** کلیک نمایید:
 
-![sounds and choose a sound highlight](images/import-sound.png)
+![صداها، نشان صدا را انتخاب کنید](images/import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ صداها براساس دسته‌بندی مرتب شده‌اند و می‌توانید بر روی آیکن بروید تا صدا را بشنوید. صدای مناسب را انتخاب کنید.
 
-![menu of sounds](images/choose-sound.png)
+![فهرست صداها](images/choose-sound.png)
 
-+ You should then see that your sprite has your chosen sound.
++ پس از آن می‌توانید ببینید که شبح شما دارای صدای انتخابی شما است.
 
-![new sound shown against the sprite](images/sound-imported.png)
+![صدای جدید نشان داده‌شده در برابر شبح](images/sound-imported.png)
