@@ -4,12 +4,12 @@
 
 + Nhấp vào ** Âm thanh ** và nhấp vào ** Chọn âm thanh **:
 
-![sounds and choose a sound highlight](images/import-sound.png)
+![âm thanh và chọn một âm thanh nổi bật](images/import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ Âm thanh được sắp xếp theo danh mục và bạn có thể di chuột qua biểu tượng để nghe âm thanh. Chọn một âm thanh phù hợp.
 
-![menu of sounds](images/choose-sound.png)
+![menu âm thanh](images/choose-sound.png)
 
-+ You should then see that your sprite has your chosen sound.
++ Sau đó bạn sẽ thấy rằng sprite của bạn có âm thanh được lựa chọn bởi bạn.
 
 ![new sound shown against the sprite](images/sound-imported.png)
