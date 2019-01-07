@@ -1,8 +1,8 @@
-+ Select the sprite you want to add the sound to.
++ Chọn sprite bạn muốn thêm âm thanh vào.
 
 ![sprite](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ Nhấp vào ** Âm thanh ** và nhấp vào ** Chọn âm thanh **:
 
 ![sounds and choose a sound highlight](images/import-sound.png)
 
