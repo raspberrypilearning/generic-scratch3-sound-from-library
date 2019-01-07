@@ -12,4 +12,4 @@
 
 + Sau đó bạn sẽ thấy rằng sprite của bạn có âm thanh được lựa chọn bởi bạn.
 
-![new sound shown against the sprite](images/sound-imported.png)
+![âm thanh mới được hiển thị dựa vào sprite](images/sound-imported.png)
