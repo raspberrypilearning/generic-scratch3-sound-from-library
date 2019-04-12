@@ -1,15 +1,15 @@
-+ 사운드를 추가 할 스프라이트를 선택하세요.
++ 소리를 추가할 스프라이트를 선택하세요.
 
-![sprite](images/sprite-select.png)
+![스프라이트](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ **소리** 탭을 클릭하고 **소리 고르기**를 클릭하세요.
 
-![sounds and choose a sound highlight](images/import-sound.png)
+![소리와 강조된 소리 선택](images/import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ 소리는 카테고리별로 구성되어 있으며, 마우스 커서를 아이콘 위에 놓으면 소리를 들을 수 있습니다. 어울리는 소리를 선택하세요.
 
-![menu of sounds](images/choose-sound.png)
+![소리 메뉴](images/choose-sound.png)
 
-+ 스프라이트에 선택한 사운드가 있음을 확인할 수 있을 겁니다.
++ 스프라이트에 선택한 소리가 있음을 확인할 수 있을 겁니다.
 
-![new sound shown against the sprite](images/sound-imported.png)
+![스프라이트에 대한 새로운 소리](images/sound-imported.png)
