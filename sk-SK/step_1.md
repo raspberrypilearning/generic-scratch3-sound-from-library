@@ -1,15 +1,15 @@
-+ Select the sprite you want to add the sound to.
++ Vyber postavu, ktorej chceš pridať zvuk.
 
-![sprite](images/sprite-select.png)
+![postava](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ Klikni na kartu **Zvuky** a potom na tlačidlo **Vyber si zvuk**:
 
-![sounds and choose a sound highlight](images/import-sound.png)
+![zvuky a výber zvýraznenia zvuku](images/import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ Zvuky sú usporiadané podľa kategórií a ak si chceš vypočuť zvuk presuň sa myšou na jeho ikonu. Vyber si vhodný zvuk.
 
-![menu of sounds](images/choose-sound.png)
+![menu zvukov](images/choose-sound.png)
 
-+ You should then see that your sprite has your chosen sound.
++ Potom by si mal(a) vidieť, že tvoja postava má zvolený zvuk.
 
-![new sound shown against the sprite](images/sound-imported.png)
+![nový zvuk, ktorý je zobrazený pri postave](images/sound-imported.png)
