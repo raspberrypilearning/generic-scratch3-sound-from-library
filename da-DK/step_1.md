@@ -2,11 +2,11 @@
 
 ![sprite](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ Klik på fanen **Lyde** og klik på **Vælg lyd fra bibliotek**:
 
 ![sounds and choose a sound highlight](images/import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ Lyde er organiseret efter kategori, og du kan svæve over ikonet for at høre en lyd. Vælg en passende lyd.
 
 ![menu of sounds](images/choose-sound.png)
 
