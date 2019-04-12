@@ -1,15 +1,15 @@
-+ Select the sprite you want to add the sound to.
++ Виберіть спрайт, до якого ви хотіли б додати звук.
 
-![sprite](images/sprite-select.png)
+![спрайт](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ Натисніть **Звуки**, та натисніть **Виберіть звук**:
 
-![sounds and choose a sound highlight](images/import-sound.png)
+![звуки та вибір особливостей звуку](images/import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ Звуки організовані за категоріями і ви можете навести курсор на піктограму, щоб почути звук. Вибрати підходящий звук.
 
-![menu of sounds](images/choose-sound.png)
+![меню звуків](images/choose-sound.png)
 
-+ You should then see that your sprite has your chosen sound.
++ Потім ви повинні побачити, що ваш спрайт має обраний вами звук.
 
-![new sound shown against the sprite](images/sound-imported.png)
+![новий звук, зображений на тлі спрайту](images/sound-imported.png)
