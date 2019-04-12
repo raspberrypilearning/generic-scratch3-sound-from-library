@@ -1,15 +1,15 @@
-+ Select the sprite you want to add the sound to.
++ Izberi figuro, ki ji želiš dodati zvok.
 
-![sprite](images/sprite-select.png)
+![figura](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ Izberi zavihek **Zvoki** in klikni **Izberi zvok**:
 
-![sounds and choose a sound highlight](images/import-sound.png)
+![zvoki in izberi označen zvok](images/import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ Zvoki so organizirani po kategorijah. Če se pomakneš na ikono, lahko slišiš zvok. Izberi ustrezen zvok.
 
-![menu of sounds](images/choose-sound.png)
+![meni zvokov](images/choose-sound.png)
 
-+ You should then see that your sprite has your chosen sound.
++ Potem bi moral videti, da ima tvoja figura zvok, ki si ga izbral.
 
-![new sound shown against the sprite](images/sound-imported.png)
+![nov zvok prikazan ob njegovi figuri](images/sound-imported.png)
