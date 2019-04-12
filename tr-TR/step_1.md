@@ -1,15 +1,15 @@
-+ Select the sprite you want to add the sound to.
++ Ses eklemek istediğiniz kuklayı seçin.
 
-![sprite](images/sprite-select.png)
+![kukla](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ **Sesler** sekmesine tıklayın, ardından **Bir Ses Seç** 'e basın:
 
-![sounds and choose a sound highlight](images/import-sound.png)
+![sesler ve bir ses vurgusu seçin](images/import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ Sesler kategoriye göre düzenlenir. Bir ses duymak için simgenin üzerine gelebilirsiniz. Uygun bir sesi seçin.
 
-![menu of sounds](images/choose-sound.png)
+![sesler menüsü](images/choose-sound.png)
 
-+ You should then see that your sprite has your chosen sound.
++ Ardından, kuklanızın seçtiğiniz sese sahip olduğunu göreceksiniz.
 
-![new sound shown against the sprite](images/sound-imported.png)
+![kuklaya karşı gösterilen yeni ses](images/sound-imported.png)
