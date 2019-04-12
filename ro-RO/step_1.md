@@ -1,15 +1,15 @@
-+ Selectați personajul căruia doriți să-i asociați sunetul.
++ Selectează personajul căruia dorești să-i asociezi sunetul.
 
-![sprite](images/sprite-select.png)
+![personaj](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ Dă clic pe tab-ul **Sunete**, și apoi dă clic pe **Alege un sunet**:
 
-![sounds and choose a sound highlight](images/import-sound.png)
+![sunete și selectarea unui sunet evidențiat](images/import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ Sunetele sunt organizate pe categorii, și pentru a le reda, poți trece cu mouse-ul peste ele. Alege sunetul pe care îl dorești.
 
-![menu of sounds](images/choose-sound.png)
+![meniul de sunete](images/choose-sound.png)
 
-+ Ar trebui apoi să verificati că personajul are asociat sunetul pe care l-ați ales.
++ Apoi ar trebui să vezi că personajul are asociat sunetul ales de tine.
 
-![new sound shown against the sprite](images/sound-imported.png)
+![sunet nou indicat pentru personaj](images/sound-imported.png)
