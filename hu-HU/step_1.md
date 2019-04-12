@@ -1,15 +1,15 @@
 + Válaszd ki a szereplőt, amelyhez hozzá szeretnéd adni a hangot.
 
-![sprite](images/sprite-select.png)
+![szereplő](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ Kattints a **Hangok** lapra, majd kattints a **Válassz hangot** ikonra:
 
-![sounds and choose a sound highlight](images/import-sound.png)
+![hangok és hang kiválasztás kiemelve](images/import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ A hangok kategóriák szerint vannak rendezve, és az egeret az ikon fölé húzva meghallgathatod a hangot. Válassza ki a megfelelő hangot.
 
-![menu of sounds](images/choose-sound.png)
+![hangok menü](images/choose-sound.png)
 
 + Ezután láthatod, hogy a szereplőhöz hozzákerült a kiválasztott hang.
 
-![new sound shown against the sprite](images/sound-imported.png)
+![új hang megjelenik a szereplő mellett](images/sound-imported.png)
