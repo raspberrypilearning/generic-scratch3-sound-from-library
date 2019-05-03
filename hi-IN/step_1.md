@@ -1,15 +1,15 @@
 + उस स्प्राइट का चयन करें जिससे आप ध्वनि जोड़ना चाहते हैं।
 
-![sprite](images/sprite-select.png)
+![स्प्राइट](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ **ध्वनि(Sounds)** टैब पर क्लिक करें, और **ध्वनि चुने(Choose a sound)** पर क्लिक करें:
 
 ![sounds and choose a sound highlight](images/import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ ध्वनि, श्रेणी के अनुसार व्यवस्थित की जाती हैं, और आप ध्वनि सुनने के लिए आइकन पर माउस मंडरा सकते हैं। एक उपयुक्त ध्वनि चुनें।
 
-![menu of sounds](images/choose-sound.png)
+![ध्वनियों का मेनू](images/choose-sound.png)
 
 + इसके बाद आपको दिखना चाहिए कि आपके स्प्राइट में आपके द्वारा चुनी गई ध्वनि जुड़ गई है।
 
-![new sound shown against the sprite](images/sound-imported.png)
+![स्प्राइट के खिलाफ दिखाई गई नई ध्वनि](images/sound-imported.png)
