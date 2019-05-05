@@ -2,14 +2,14 @@
 
 ![ስፕራይት](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ ** ድምጾች ** ን ጠቅ ያድርጉና ** ድምጽ ይምረጡ ** የሚለዉን ጠቅ ያድርጉ:
 
-![sounds and choose a sound highlight](images/import-sound.png)
+![ድምጾች እና የድምጽ ማድመቂያ ይምረጡ](images/import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ ድምፆቹ በምድብ ይደራጃሉ, እናም ድምጽ ለመስማት በአዶው ላይ ያንዣብቡ. ተስማሚ ድምፅ ምረጥ.
 
-![menu of sounds](images/choose-sound.png)
+![የድምፅ ምናሌ](images/choose-sound.png)
 
-+ You should then see that your sprite has your chosen sound.
++ ከዚያም ስፐራይቱ የመረጡት ድምጽ የኖረዋል.
 
-![new sound shown against the sprite](images/sound-imported.png)
+![ስፐራይቱ አዲስ ድምጽ ያሳያል](images/sound-imported.png)
