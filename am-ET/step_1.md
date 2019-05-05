@@ -1,6 +1,6 @@
-+ Select the sprite you want to add the sound to.
++ ድምጹን ሊጨምሩበት የሚልጉትን ስፕራይት ይምረጡ.
 
-![sprite](images/sprite-select.png)
+![ስፕራይት](images/sprite-select.png)
 
 + Click the **Sounds** tab, and click **Choose a Sound**:
 
