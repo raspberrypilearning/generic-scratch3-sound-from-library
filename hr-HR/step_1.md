@@ -1,4 +1,4 @@
-+ Odaberi lika kojem želiš dodati zvuk.
++ Select the sprite you want to add the sound to.
 
 ![sprite](images/sprite-select.png)
 
@@ -10,6 +10,6 @@
 
 ![menu of sounds](images/choose-sound.png)
 
-+ Tada bi trebao vidjeti da tvoj lik ima odabrani zvuk.
++ Sada bi tvoj lik trebao imati odabrani zvuk.
 
 ![new sound shown against the sprite](images/sound-imported.png)
