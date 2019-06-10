@@ -1,15 +1,15 @@
-+ Select the sprite you want to add the sound to.
++ Dewis y corlun rwyt ti am ychwanegu'r sain ato.
 
-![sprite](images/sprite-select.png)
+![corlun](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ Clicia'r tab **Seiniau** a clicia **Dewis Sain**:
 
-![sounds and choose a sound highlight](images/import-sound.png)
+![sain a dewis uwcholeuo sain](images/import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ Mae seiniau wedi eu trefnu fesul thema, ac mae modd dal y llygoden dros yr eicon i glywed sŵn. Dewisa sŵn addas.
 
-![menu of sounds](images/choose-sound.png)
+![dewislen sain](images/choose-sound.png)
 
-+ You should then see that your sprite has your chosen sound.
++ Dylet ti wedyn weld bod gan dy gorlun wedi dewis dy sain.
 
-![new sound shown against the sprite](images/sound-imported.png)
+![sain newydd yn cael ei ddangos yn erbyn corlun](images/sound-imported.png)
