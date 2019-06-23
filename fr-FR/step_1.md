@@ -1,15 +1,15 @@
 + Sélectionne le lutin auquel tu souhaite ajouter un son.
 
-![sprite](images/sprite-select.png)
+![sprites](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ Clique sur l'onglet **Sons**, et clique sur **Choisir un son**:
 
-![sounds and choose a sound highlight](images/import-sound.png)
+![sons et choisir un son en surbrillance](images/import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ Les sons sont classés par catégories, et tu peux survoler l'icône pour entendre un son. Choisis un son approprié.
 
-![menu of sounds](images/choose-sound.png)
+![menu des sons](images/choose-sound.png)
 
 + Tu verras alors que ton lutin fait le son que tu as choisi.
 
-![new sound shown against the sprite](images/sound-imported.png)
+![nouveau son affiché contre le sprite](images/sound-imported.png)
