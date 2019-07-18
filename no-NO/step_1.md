@@ -1,15 +1,15 @@
-+ Select the sprite you want to add the sound to.
++ Velg figuren du vil legge til lyden på.
 
-![sprite](images/sprite-select.png)
+![figur](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ Klikk på arkfanen **Lyder**, og klikk på **Velg en lyd**:
 
-![sounds and choose a sound highlight](images/import-sound.png)
+![lyder og velg en lyd markert](images/import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ Lyder er sortert etter kategori, og du kan holde musepekeren over ikonet for å høre på en lyd. Velg en passende lyd.
 
-![menu of sounds](images/choose-sound.png)
+![meny med lyder](images/choose-sound.png)
 
-+ You should then see that your sprite has your chosen sound.
++ Du bør nå se at figuren har din valgte lyd.
 
-![new sound shown against the sprite](images/sound-imported.png)
+![ny lyd vist på figur](images/sound-imported.png)
