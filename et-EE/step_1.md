@@ -1,15 +1,15 @@
-+ Select the sprite you want to add the sound to.
++ Vali sprait, millele soovid heli lisada.
 
-![sprite](images/sprite-select.png)
+![sprait](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ Kliki vahekaardil **Helid** ja kliki **Vali heli**:
 
-![sounds and choose a sound highlight](images/import-sound.png)
+![helid ja vali heli esiletõste](images/import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ Helid on liigitatud kategooriate järgi ja heli kuulmiseks saad noolega ikoonile liikuda. Vali sobiv heli.
 
-![menu of sounds](images/choose-sound.png)
+![helide menüü](images/choose-sound.png)
 
-+ You should then see that your sprite has your chosen sound.
++ Seejärel peaksid nägema, et sinu spraidil on sinu valitud heli.
 
-![new sound shown against the sprite](images/sound-imported.png)
+![uut heli näidatakse spraidi taustal](images/sound-imported.png)
