@@ -1,15 +1,15 @@
-+ Selecciona el sprite al que deseas añadirle el sonido.
++ Selecciona el objeto al que deseas añadir el sonido.
 
-![sprite](images/sprite-select.png)
+![Objeto](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ Haz clic en la pestaña de **Sonidos**, y después en **Elige un sonido**:
 
-![sounds and choose a sound highlight](images/import-sound.png)
+![sonidos y elige un sonido destacado](images/import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ Los sonidos están organizados por categoría. Puedes desplazar el cursor sobre el icono de un sonido para escucharlo. Elige un sonido adecuado.
 
-![menu of sounds](images/choose-sound.png)
+![menú de sonidos](images/choose-sound.png)
 
-+ Deberías ver que tu sprite tiene el sonido que has elegido.
++ Deberías ver que tu objeto tiene el sonido que has elegido.
 
-![new sound shown against the sprite](images/sound-imported.png)
+![nuevo sonido mostrado con el objeto](images/sound-imported.png)
