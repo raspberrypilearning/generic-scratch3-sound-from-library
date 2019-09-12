@@ -1,15 +1,15 @@
-+ 音を追加したいスプライトを選択します。
++ 音を追加したいスプライトを選びます。
 
-![sprite](images/sprite-select.png)
+![スプライト](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ **音** タブをクリックしし、 ** 音を選ぶ** をクリックします。
 
 ![sounds and choose a sound highlight](images/import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ 音はカテゴリごとに分けられています。アイコンの右上にある、むらさき色のボタンにカーソルを合わせると音を聞くことができます。 ふさわしい音を選んでください。
 
 ![menu of sounds](images/choose-sound.png)
 
-+ スプライトにあなたが選択した音が追加されていることがわかります。
++ スプライトに選んだ音が追加されていることがわかります。
 
 ![new sound shown against the sprite](images/sound-imported.png)
