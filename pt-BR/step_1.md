@@ -1,15 +1,15 @@
 + Selecione o ator ao qual deseja adicionar o som.
 
-![sprite](images/sprite-select.png)
+![ator](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ Clique na aba **Sons** e clique **Escolha um som**:
 
-![sounds and choose a sound highlight](images/import-sound.png)
+![sons e escolha um som destacado](images/import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ Os sons estão organizados por categoria e você pode passar o mouse sobre o ícone para ouvir um som. Escolha um som adequado.
 
-![menu of sounds](images/choose-sound.png)
+![menu de sons](images/choose-sound.png)
 
-+ You should then see that your sprite has your chosen sound.
++ Você deve então ver que seu ator possui o som escolhido.
 
-![new sound shown against the sprite](images/sound-imported.png)
+![novo som exibido contra o sprite](images/sound-imported.png)
