@@ -1,8 +1,8 @@
 + Selecciona el sprite al que deseas añadirle el sonido.
 
-![sprite](images/sprite-select.png)
+![objeto](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ Haz clic en la pestaña de **Sonidos**, y después en **Elige un sonido**:
 
 ![sounds and choose a sound highlight](images/import-sound.png)
 
