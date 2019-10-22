@@ -1,15 +1,15 @@
-+ Select the sprite you want to add the sound to.
++ ඔබට ශබ්දය එක් කිරීමට අවශ්‍ය sprite එක තෝරන්න.
 
-![sprite](images/sprite-select.png)
+![sprite](images / sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ **ශබ්ද(Sounds)** පටිත්ත(tab) එක මත ක්ලික් කර ** ශබ්දයක් තෝරන්න(Choose a Sound) ** ක්ලික් කරන්න:
 
-![sounds and choose a sound highlight](images/import-sound.png)
+![ශබ්ද සහ ශබ්ද උද්දීපනයක් තෝරන්න](images / import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ කාණ්ඩ(category) අනුව ශබ්ද වර්ගීකරණය කර ඇති අතර ඔබට ශබ්දයක් ඇසීමට අවශ්‍ය නම් අයිකනය මත මුසිකය සැරිසැරිය(hover) යුතුවේ. සුදුසු ශබ්දයක් තෝරන්න.
 
-![menu of sounds](images/choose-sound.png)
+![ශබ්ද මෙනුව](images / choose-sound.png)
 
-+ You should then see that your sprite has your chosen sound.
++ එවිට ඔබේ sprite එකට ඔබ තෝරාගත් ශබ්දය ඇති බව ඔබට දැකගත හැකිය.
 
-![new sound shown against the sprite](images/sound-imported.png)
+![sprite එකට එරෙහිව නව ශබ්දය පෙන්වයි](images / sound-imported.png)
