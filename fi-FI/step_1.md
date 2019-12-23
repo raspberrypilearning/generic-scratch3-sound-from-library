@@ -1,15 +1,15 @@
-+ Select the sprite you want to add the sound to.
++ Valitse hahmo, johon haluat lisätä äänen.
 
-![sprite](images/sprite-select.png)
+![hahmo](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ Napsauta **Äänet**-välilehteä ja sitten **Valitse Ääni**:
 
-![sounds and choose a sound highlight](images/import-sound.png)
+![äänet ja valitse äänen korostus](images/import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ Äänet on järjestetty luokittain, ja voit osoittaa kuvakkeen päälle äänen kuulemiseksi. Valitse sopiva ääni.
 
-![menu of sounds](images/choose-sound.png)
+![äänivalikko](images/choose-sound.png)
 
-+ You should then see that your sprite has your chosen sound.
++ Sinun pitäisi sitten nähdä, että hahmollasi on valitsemasi ääni.
 
-![new sound shown against the sprite](images/sound-imported.png)
+![uusi ääni näytetään hahmoa vastaan](images/sound-imported.png)
