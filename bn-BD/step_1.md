@@ -1,15 +1,15 @@
-+ Select the sprite you want to add the sound to.
++ যে স্প্রাইটের জন্য শব্দ যোগ করতে চান সেই স্প্রাইটকে সিলেক্ট করুন।
 
-![sprite](images/sprite-select.png)
+![স্প্রাইট](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ ক্লিক করুন ** সাউন্ড ** ট্যাবটিতে এবং শব্দ নির্বাচনের জন্য ক্লিক করুন ** Choose a sound **:
 
-![sounds and choose a sound highlight](images/import-sound.png)
+![শব্দ এবং একটি হাইলাইট করা শব্দও নির্বাচন করুন](images/import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ শব্দগুলি বিভাগ অনুসারে সংগঠিত হয় এবং আপনি শব্দ শুনতে আইকনটির উপরে ঘুরে আসতে পারেন।. সাবটাইটেলের জন্য একটি শব্দ নির্বাচন করুন।.
 
-![menu of sounds](images/choose-sound.png)
+![শব্দের জন্যে মেনু](images/choose-sound.png)
 
-+ You should then see that your sprite has your chosen sound.
++ এরপর আপনি দেখতে পাবেন যে আপনার নির্বাচিত শব্দ সঠিকভাবে আপনার পছন্দ করা স্প্রাইটে যোগ হয়েছে।.
 
-![new sound shown against the sprite](images/sound-imported.png)
+![নতুন শব্দটি স্প্রাইটের জন্যে দেখানো হয়েছে](images/sound-imported.png)
