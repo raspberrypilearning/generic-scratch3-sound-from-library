@@ -1,15 +1,15 @@
-+ ድምጹን ሊጨምሩበት የሚልጉትን ስፕራይት ይምረጡ.
++ Select the sprite you want to add the sound to.
 
-![ስፕራይት](images/sprite-select.png)
+![ገፀባህርይ](images/sprite-select.png)
 
-+ ** ድምጾች ** ን ጠቅ ያድርጉና ** ድምጽ ይምረጡ ** የሚለዉን ጠቅ ያድርጉ:
++ ** ድምጾች ** ን ጠቅ አድርጉና ** ድምጽ ይምረጡ ** የሚለዉን ጠቅ አድርጉ:
 
-![ድምጾች እና የድምጽ ማድመቂያ ይምረጡ](images/import-sound.png)
+![ድምጾች እና የድምጽ ማድመቂያ ምረጡ](images/import-sound.png)
 
-+ ድምፆቹ በምድብ ይደራጃሉ, እናም ድምጽ ለመስማት በአዶው ላይ ያንዣብቡ. ተስማሚ ድምፅ ምረጥ.
++ ድምፆቹ በምድብ የተደራጁ ናቸው ፤ እናም ድምጽ ለመስማት በአዶው(አይከን) ላይ አንዣብቡ። ተስማሚ ድምፅ ምረጡ።
 
-![የድምፅ ምናሌ](images/choose-sound.png)
+![የድምፅ መምረጫ](images/choose-sound.png)
 
-+ ከዚያም ስፐራይቱ የመረጡት ድምጽ የኖረዋል.
++ ከዚያም ገፀባህሪው የተመረጠው ድምጽ የኖረዋል።
 
-![ስፐራይቱ አዲስ ድምጽ ያሳያል](images/sound-imported.png)
+![ገፀ ባህሪው አዲስ ድምጽ ያሳያል](images/sound-imported.png)
