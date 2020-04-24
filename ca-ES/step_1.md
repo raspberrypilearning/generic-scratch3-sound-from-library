@@ -1,15 +1,15 @@
-+ Select the sprite you want to add the sound to.
++ Selecciona el personatge que vols afegir el so.
 
-![sprite](images/sprite-select.png)
+![personatge](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ Fes clic a la pestanya **sons**, i fes clic a **Tria un so**:
 
-![sounds and choose a sound highlight](images/import-sound.png)
+![sons i tria un so ressaltat](images/import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ Els sons s'organitzen per categoria, i pots passar el cursor per sobre de la icona per escoltar un so. Tria un so adient.
 
-![menu of sounds](images/choose-sound.png)
+![menú de sons](images/choose-sound.png)
 
-+ You should then see that your sprite has your chosen sound.
++ A continuació, has de veure que el teu personatge té el so que has triat.
 
-![new sound shown against the sprite](images/sound-imported.png)
+![so nou es mostra en el personatge](images/sound-imported.png)
