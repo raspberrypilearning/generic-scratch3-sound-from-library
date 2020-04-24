@@ -1,4 +1,4 @@
-+ Select the sprite you want to add the sound to.
++ ድምፅ ልትጨምሩበት የምትፈልጉትን ገፀባህርይ ምረጡ።
 
 ![ገፀባህርይ](images/sprite-select.png)
 
