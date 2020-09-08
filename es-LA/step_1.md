@@ -1,4 +1,4 @@
-+ Selecciona el sprite al que deseas añadirle el sonido.
++ Selecciona el objeto al que deseas añadirle sonido.
 
 ![objeto](images/sprite-select.png)
 
