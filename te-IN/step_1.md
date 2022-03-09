@@ -1,15 +1,15 @@
-+ Select the sprite you want to add the sound to.
++ మీరు ధ్వనిని జోడించాలనుకుంటున్న sprite ని ఎంచుకోండి.
 
 ![sprite](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose a Sound**:
++ **Sounds** ట్యాబ్‌ని క్లిక్ చేసి, **Choose a Sound**ని ఎంచుకోండి:
 
-![sounds and choose a sound highlight](images/import-sound.png)
+![శబ్దాలు మరియు ధ్వని హైలైట్‌ని ఎంచుకోండి](images/import-sound.png)
 
-+ Sounds are organised by category, and you can hover over the icon to hear a sound. Choose a suitable sound.
++ Sounds కేటగిరీ వారీగా నిర్వహించబడతాయి మరియు మీరు ధ్వనిని వినడానికి చిహ్నంపై కర్సర్ ఉంచవచ్చు. తగిన ధ్వనిని ఎంచుకోండి.
 
-![menu of sounds](images/choose-sound.png)
+![శబ్దాల మెను](images/choose-sound.png)
 
-+ You should then see that your sprite has your chosen sound.
++ మీ sprite లో మీరు ఎంచుకున్న ధ్వని ఉందో లేదో మీరు చూడాలి.
 
-![new sound shown against the sprite](images/sound-imported.png)
+![sprite కు వ్యతిరేకంగా కొత్త ధ్వని చూపబడింది](images/sound-imported.png)
