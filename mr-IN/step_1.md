@@ -1,8 +1,8 @@
-+ तुम्ही ध्वनी जोडू इच्छित आहात तो स्प्राइट निवडा.
++ तुम्ही ध्वनी जोडू इच्छित आहात तो sprite निवडा.
 
 ![sprite](images/sprite-select.png)
 
-+ **Sounds** टॅब वर क्लिक करा आणि **Choose a Sound** वर क्लिक करा:
++ **Sounds ** टॅब वर क्लिक करा आणि **Choose a Sound** वर क्लिक करा:
 
 ![sounds and choose a sound highlight](images/import-sound.png)
 
