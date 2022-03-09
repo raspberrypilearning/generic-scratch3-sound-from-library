@@ -2,7 +2,7 @@
 
 ![sprite](images/sprite-select.png)
 
-+ **Sounds** ట్యాబ్‌ని క్లిక్ చేసి, **Choose a Sound**ని ఎంచుకోండి:
++ **Sounds** ట్యాబ్‌ని క్లిక్ చేసి, **Choose a Sound** ని ఎంచుకోండి:
 
 ![శబ్దాలు మరియు ధ్వని హైలైట్‌ని ఎంచుకోండి](images/import-sound.png)
 

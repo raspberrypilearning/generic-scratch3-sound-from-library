@@ -2,7 +2,7 @@
 
 ![sprite](images/sprite-select.png)
 
-+ **Sounds ** टॅब वर क्लिक करा आणि **Choose a Sound** वर क्लिक करा:
++ **Sounds** टॅब वर क्लिक करा आणि **Choose a Sound** वर क्लिक करा:
 
 ![sounds and choose a sound highlight](images/import-sound.png)
 
